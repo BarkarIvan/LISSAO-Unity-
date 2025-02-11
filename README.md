@@ -1,5 +1,5 @@
 # LISSAO-Unity-
-Full screen pass render feature shader for Unity for fun with LISSAO
+Unity Full screen pass render feature shader for fun with LISSAO
 also added a rotations texture Generator and Houdini file for pre-calculating data
 
 more:
